@@ -1,0 +1,10 @@
+| Feature                        | Value |
+| ------------------------------ | ----- |
+| **Pregnancies**                | 6     |
+| **Glucose**                    | 165   |
+| **Blood Pressure**             | 90    |
+| **Skin Thickness**             | 35    |
+| **Insulin**                    | 130   |
+| **BMI**                        | 38.5  |
+| **Diabetes Pedigree Function** | 0.7   |
+| **Age**                        | 55    |
